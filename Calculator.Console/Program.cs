@@ -1,7 +1,16 @@
-﻿using Calculator.Business;
+﻿using System;
+using System.Net;
 
-Console.WriteLine("Hello, World!");
+namespace project {
 
-var a = FunctionalCalculator.Add(1, 2);
+    class Program {
 
-Console.WriteLine(a);
+        static void Main() {
+            Console.WriteLine("Hello world");
+        }
+
+
+
+    }
+
+}
